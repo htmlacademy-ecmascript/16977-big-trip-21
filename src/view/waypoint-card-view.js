@@ -40,7 +40,7 @@ function templateWaypointCard() {
       </div>
     </li>`
   );
-};
+}
 
 export default class WaypointCardView {
   getTemplate() {

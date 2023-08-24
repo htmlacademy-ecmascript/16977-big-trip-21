@@ -168,7 +168,7 @@ function templateFormEdit() {
       </form>
     </li>`
   );
-};
+}
 
 export default class FormEditView {
   getTemplate() {

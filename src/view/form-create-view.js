@@ -165,7 +165,7 @@ function templateFormCreate() {
       </form>
     </li>`
   );
-};
+}
 
 export default class FormCreateView {
   getTemplate() {

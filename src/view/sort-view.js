@@ -29,7 +29,7 @@ function templateSort() {
       </div>
     </form>`
   );
-};
+}
 
 export default class SortView {
   getTemplate() {

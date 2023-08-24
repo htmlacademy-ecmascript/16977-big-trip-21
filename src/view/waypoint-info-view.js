@@ -14,7 +14,7 @@ function templateWaypointInfo() {
       </p>
     </section>`
   );
-};
+}
 
 export default class WaypointInfoView {
   getTemplate() {
