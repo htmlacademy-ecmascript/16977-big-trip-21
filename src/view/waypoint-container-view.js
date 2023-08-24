@@ -1,6 +1,6 @@
 import { createElement } from '../render.js';
 
-const templateWaypointContainer = () => {
+function templateWaypointContainer() {
   return `<ul class="trip-events__list"></ul>`;
 };
 

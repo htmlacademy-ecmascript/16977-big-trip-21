@@ -1,6 +1,6 @@
 import { createElement } from '../render.js';
 
-const templateFormEdit = () => {
+function templateFormEdit() {
   return (
     `<li class="trip-events__item">
       <form class="event event--edit" action="#" method="post">
